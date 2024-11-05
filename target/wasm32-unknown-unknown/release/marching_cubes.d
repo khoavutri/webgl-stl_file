@@ -1,0 +1,1 @@
+C:\Users\yywm1\OneDrive\Desktop\code\webgl-marching-cubes\target\wasm32-unknown-unknown\release\marching_cubes.wasm: C:\Users\yywm1\OneDrive\Desktop\code\webgl-marching-cubes\src\error_log.rs C:\Users\yywm1\OneDrive\Desktop\code\webgl-marching-cubes\src\lib.rs
